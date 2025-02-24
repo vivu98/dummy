@@ -82,5 +82,24 @@
         }
       ]
     }
+  },
+  "4853d651-22c3-4e02-a567-ec28a1fba555": {
+    "id": "4853d651-22c3-4e02-a567-ec28a1fba555",
+    "name": "Channel Name",
+    "matrixRoomId": "",
+    "creatorId": "4853d651-22c3-4e02-a567-ec28a1fba823",
+    "userPreferences": {},
+    "createdDate": 1739870113,
+    "type": "Channel",
+    "metadata": {
+      "visibleTo": [
+        { "type": "Patient", "patientAccountId": "4853d651-22c3-4e02-a567-ec28a1fba823" },
+        {
+          "type": "InternalEmployee",
+          "employeeId": "30b4c58b-931b-468f-b965-65c4ef0d363f",
+          "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9"
+        }
+      ]
+    }
   }
 }
